@@ -1,0 +1,419 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rokkitt&display=swap');
+body{
+margin: 0;
+ font-family: 'Poppins',sans-serif;
+
+
+}
+.move a{
+    position: relative;
+    left: 3em;
+}
+
+.navigation{
+   
+   background-color: #FBF3E4;
+   padding: 30px;
+}
+.navigation .head{
+  
+   text-decoration: none;
+  font: normal normal  33px/44px Inter;;
+   
+}
+.navigation a{
+    text-decoration: none;
+   color: #105652;
+   
+}
+.navbar  {
+  display: inline-block;
+  position: relative;
+  top: -36px;
+  right: 12px;
+  padding: 1px
+
+ 
+}
+.navbar{
+    float:inline-end;
+}
+.navbar li{
+    list-style-type: none;
+    display: inline-block;
+    
+
+    
+}
+.navbar li a{
+    text-decoration: none;
+    padding: 20px;
+    color:black;
+    
+
+}
+
+.sectioncon{
+    font-size:1rem;
+    font-weight: 100;
+
+}
+.one:hover{
+    color: #FCA738;
+}
+.two:hover{
+    color:#FCA738;
+}
+.three:hover{
+    color:#FCA738;
+
+}
+.four:hover{
+    color:#FCA738;
+}
+.five:hover{
+    color:#FCA738;
+}
+.section1{
+    background: #105652;
+    padding: 2em;
+     height: 488px;
+}
+.section11{
+    padding: 6em;
+    margin-top: -3em;
+}
+
+.section11 h3{
+     font-size: 2.8rem;
+     font-weight: 100;
+     
+}
+.section11 h2{
+    font-size: 3rem;
+    font-weight:700;
+    color: whitesmoke;
+   
+    
+}
+.buttonSection{
+   padding-left: 6em;
+    margin-top:-2em;
+
+}
+.buttonSection p{
+    letter-spacing: 2px;
+    font-size: 16px;
+    color:aliceblue;
+}
+.buttonSection .btn{
+   margin-top:6px;
+   padding: 13px;
+   
+}
+.ekk:hover{
+    color: white;
+   background: #09BEAD 0% 0% no-repeat padding-box;
+   border: none;
+
+}
+.doo:hover{
+    color: white;
+    background: #FCA738;
+    border: none;
+
+}
+.ekk,.doo{
+    color: white;
+}
+.imgcontainer{
+    display: flex;
+    justify-content:flex-end;
+    margin-top: -22em;
+}
+/*Section 2 Starts*/
+.forborder{
+    border: 2px solid white;
+    background-color:white;
+    border-radius: 2em;
+    width: fit-content;
+    height: 772px;
+}
+.section2{
+    background-color: rgb(234, 230, 230);
+    padding: 6em;
+}
+.col-md-6{
+   margin-top: 12em;
+}
+.col-md-6 h2{
+    font-weight:bold;
+  color: #105652;
+    font: normal normal bold 35px/44px Inter;
+}
+#editit{
+    width: 30%;
+    position: relative;
+    bottom: 18px;
+   
+    
+    
+    border: 4px  solid #ff9900;
+  opacity: 2em;
+    border-radius: 2em;
+
+}
+
+.webdesigner .para1{
+    font: normal normal normal 17px/36px Inter;
+    color: #105652;}
+    .webdesigner .para2{
+        font: normal normal normal 18px/30px Inter;
+        color: #105652;
+    }
+    .underborder{
+        border: 2px solid white;
+        border-radius: 1.8em;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        height: 90px;
+        margin-top: 60px;
+    }
+    
+    
+    .exp p{
+        font: normal normal medium 16px/30px Inter;
+        text-align: center;
+        color:#105652;
+    }
+    .centerthe{
+        text-align: center;
+        letter-spacing: 20px;
+        position: relative;
+          bottom: 7px;
+    }
+    
+  #upthe{
+    position: relative;
+    
+  }
+  .section3 h3{
+    text-align: center;
+    font: normal normal bold 35px/44px Inter;
+  }
+  .section3 hr{
+    width: 14%;
+    position: relative;
+    bottom: 10px;
+   
+    
+    
+    border: 3px solid #ff8000;
+  opacity: 2em;
+  
+  
+    margin: 5px auto;
+
+
+  }
+  .container #un{
+    width: 100%;
+
+  }
+  #image5{
+    margin-top: 26px;
+
+  }
+  #image3{
+    margin-top: 21px;
+  }
+  .resume{
+    padding: 2em;
+  }
+  .resume .secondline{
+    border: 4px solid #FCA738;
+    width: 9em;
+    margin: 0 auto;
+
+  }
+  .resume h1{
+    color: #105652;
+    font: normal normal bold 35px/44px Inter;
+    opacity: 1;
+    text-align: center;
+    
+  }
+
+  #topp{
+    margin-top: 60px;
+  }
+  .makeborder{
+    border: 2px solid white;
+        border-radius: 10px;
+        box-shadow: 2px 2px 2px 1px rgba(18, 16, 16, 0.2);
+        width: 34em;
+        margin-top: -5em;
+        height: 27em;
+      
+  }
+.sayaboutme{
+    padding: 4em;
+}
+.sayaboutme h1{
+    text-align: center;
+    font: normal normal bold 35px/44px Inter;
+letter-spacing: 0px;
+color: #105652;
+opacity: 1;
+}
+
+#say{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin-top: 30px;
+}
+#onetesti{
+    padding: 2em;
+    margin: 0;
+    margin-top: 40px;
+}
+.moveee{
+    text-align: center;
+}
+#sdf{
+    font: normal normal normal 16px/20px Inter;
+letter-spacing: 0px;
+color: #7B7B88;
+opacity: 1;
+position: relative;
+bottom: 10px;
+}
+.uppp{
+    margin-top: -123px;
+}
+#ghj{
+    font: normal normal normal 16px/20px Inter;
+    letter-spacing: 0px;
+    color:rgb(24, 24, 24);
+    opacity: 1;
+
+}
+#testimonials{
+    text-align: center;
+    color: #ff8000;
+}
+.contact{
+    padding: 3em;
+    background-color:#EDEDED;
+}
+.contact h3{
+    text-align: center;
+    font: normal normal bold 35px/44px Inter;
+letter-spacing: 0px;
+color: #105652;
+opacity: 1;
+}
+.contact hr{
+    border: 2px solid #FCA738;
+}
+
+#oneb{
+    background-color: white;
+    padding: 4em;
+
+}
+#onec{
+    background-color: #FBF3E4;
+}
+#oneb p{
+    font: normal normal normal 16px/22px Inter;
+letter-spacing: 0px;
+color: #333333;
+opacity: 1;
+width: 442px;
+height: 102px;
+}
+.svglist ul{
+
+    list-style: none;
+
+}
+.svglist ul li{
+    padding: 10px;
+}
+#unique{
+    top: 3935px;
+left: 237px;
+width: 113px;
+height: 17px;
+
+text-align: left;
+font: normal normal normal 14px/17px Inter;
+letter-spacing: 0px;
+color: #858585;
+opacity: 1;
+}
+#onec{
+    padding: 6em;
+}
+#onec h2{
+    top: 3721px;
+left: 756px;
+width: 253px;
+height: 31px;
+
+text-align: left;
+font: normal normal bold 26px/31px Inter;
+letter-spacing: 0px;
+color: #105652;
+opacity: 1;
+}
+.formlabel{
+    top: 0px;
+left: 0px;
+width: 112px;
+height: 16px;
+
+text-align: left;
+font: normal normal normal 13px/16px Inter;
+letter-spacing: 0px;
+color: #333333;
+}
+#lastbutton{
+    background: #FCA738 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    color: white;
+    top: 4152px;
+left: 756px;
+width: 189px;
+height: 40px;
+margin-top: 23px;
+border: #FCA738;
+}
+.containerr-lg{
+
+   
+left: 0px;
+
+height: 94px;
+
+background: #FBF3E4 0% 0% no-repeat padding-box;
+opacity: 1;
+text-align: center;
+position: relative;
+
+}
+.containerr-lg p{
+    position: relative;
+    top: 40px;
+}
+#big{
+     transition: transform 5s;
+
+
+}
+
+#big:hover{
+
+font-size: 5rem;
+    
+}
